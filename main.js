@@ -8,14 +8,14 @@
 //     Удалите свойство name из объекта.
 
 
-                            // let emptyObject={};
+                            // let user={};
                             //
-                            // emptyObject.name="John";
-                            // emptyObject.surname="Smith";
-                            // emptyObject.name="Pete";
-                            // delete emptyObject.name;
+                            // user.name="John";
+                            // user.surname="Smith";
+                            // user.name="Pete";
+                            // delete user.name;
                             //
-                            // console.log(emptyObject);
+                            // console.log(user);
 
 
 
@@ -81,13 +81,12 @@
                                     //
                                     // };
                                     //
-                                    // function allSalaries(salaries) {
+                                    // let sum = 0;
                                     //
-                                    //     let sum = 0;
+                                    // function allSalaries(salaries) {
                                     //     for (let salary of Object.values(salaries)) {
                                     //         sum += salary;
                                     //     }
-                                    //
                                     //     return sum;
                                     // };
                                     // console.log(allSalaries(salaries));
